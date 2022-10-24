@@ -1,0 +1,133 @@
+/* * {
+    border: 1px solid red
+  }
+  
+  */
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+  }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .uppercase {
+    text-transform: uppercase;
+  }
+
+ /*#site-title {
+    font-family:;
+  }*/
+
+
+  .text-aqua {
+    color: aqua;
+  }
+
+  a[href*='tagine'] {
+    color: rgb(255, 255, 255);
+  }
+
+  a[href*='tea'] {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+
+
+  a:hover {
+    color: rgb(154, 255, 242);
+  }
+
+
+  /* .heading-background{
+    background-color: rgb(226, 43, 104);
+  
+    background-size: 40px;
+    opacity: 0.5;
+  } 
+  */
+
+  
+
+
+/* ogarnac font */
+.font {
+        font-family: system-ui;
+    }
+
+.bullet li{
+        list-style: none;
+      }
+
+body {
+  margin: 0;
+        
+      }
+
+
+
+h1 {
+    font-size: 105px;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.btn {
+  color: #fff;
+  background: #000;
+  padding: 10px 40px;
+  text-decoration: none; 
+}
+
+.btn-2 {
+  color: black;
+  background: white;
+  padding: 10px 60px;
+  text-decoration: none; 
+}
+
+.back-btn {
+  color: #fff;
+  background: #000;
+  padding: 10px 40px;
+  text-decoration: none; 
+
+}
+
+table {
+  background-color: white;
+}
+
+thead {
+  background-color: rgb(255, 255, 255);
+  color: black;
+}
+
+tbody {
+  background-color: white;
+  color: rgb(0, 0, 0);
+}
+
+.text-just {
+  text-align: justify;
+}
+
+.text-grey{
+  color: gray;
+}
+
+footer {
+  color: lightgray;
+  text-align: center;
+}
+
+  }
